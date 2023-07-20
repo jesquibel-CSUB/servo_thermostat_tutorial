@@ -1,7 +1,7 @@
 # Servo Thermometer Tutorial
 
 
-## Step 1 - Begin by setting servo at 0 degrees
+## Step 1 - Set the servo to 0 degrees. @showDialog
 Drag the ``||pins:servoWritePin||`` block in to the ``||basic.Start||`` block.
 
 Find the ``||pins:servoWritePin||`` Block in the ``||pins:pins||`` Folder.
