@@ -52,8 +52,8 @@ basic.forever(function () {
 ## Step 5 - Add a Mapping Block from the Pins folder
 Next add another ``||input.temperature||`` bubble into the top line of the ``||pins.Mapping||`` block
 
-FYI: We want **_MAP_** the temperature values from the sensor to the Servo values.
-Enter **_-5_** and **_50_** for temperature values and **_0_** and **_180_** for degrees into the **Mapping** bubble as shown in the ``||hint bubble||``.
+FYI: We want to **_MAP_** the temperature values from the sensor to the Servo values.
+Enter **_-5_** and **_50_** for temperature values and **_0_** and **_180_** for degrees into the ``||pins.Mapping||`` bubble as shown in the ``||hint bubble||``.
 
 
 ```blocks
