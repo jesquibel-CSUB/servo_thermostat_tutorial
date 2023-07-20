@@ -1,5 +1,5 @@
-# Servo Thermometer Tutorial
-## Make a Servo Activated Thermometer @showDialog
+# Servo Thermometer Tutorial @showDialog
+## Make a Servo Activated Thermometer 
 The servo rotates 0-180 depending on the weather
 
 ![Servo_animation](https://github.com/jesquibel-CSUB/servo_thermostat_tutorial/assets/109695691/e724d3bb-728d-4099-a393-0b75c236994a)
