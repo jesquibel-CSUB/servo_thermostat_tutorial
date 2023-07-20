@@ -1,7 +1,9 @@
 # Servo Thermometer Tutorial
 ## Make a Servo Activated Thermometer @showDialog
 The servo rotates 0-180 depending on the weather
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S91481-15981-53678-86740" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+
+![Servo_animation](https://github.com/jesquibel-CSUB/servo_thermostat_tutorial/assets/109695691/e724d3bb-728d-4099-a393-0b75c236994a)
+
 ## Step 1 - Set the servo to 0 degrees.
 Drag the ``||pins:servoWritePin||`` block in to the ``||basic.Start||`` block.
 
