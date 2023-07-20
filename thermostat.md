@@ -1,5 +1,6 @@
-# Servo Thermometer Tutorial @showDialog
-
+# Servo Thermometer Tutorial
+## Make a Servo Activated Thermometer @showDialog
+The servo rotates 0-180 depending on the weather
 
 ## Step 1 - Set the servo to 0 degrees.
 Drag the ``||pins:servoWritePin||`` block in to the ``||basic.Start||`` block.
